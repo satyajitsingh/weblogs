@@ -1,0 +1,182 @@
+2024-09-16 11:44:02,931 INFO  [io.qua.htt.access-log] (executor-thread-2) 127.0.0.1 - e4b960e4-666c-4972-8b5e-1bca15322714 [16/Sep/2024:11:44:02 +0100] "GET /api/users/portal/page/slug/home HTTP/1.1" 200 17443
+2024-09-16 11:44:03,025 INFO  [io.qua.htt.access-log] (executor-thread-7) 127.0.0.1 - e4b960e4-666c-4972-8b5e-1bca15322714 [16/Sep/2024:11:44:03 +0100] "GET /api/users/portal/event?page=0&size=6&sortField=id&sortOrder=random HTTP/1.1" 200 1708
+2024-09-16 11:44:03,025 INFO  [io.qua.htt.access-log] (executor-thread-4) 127.0.0.1 - e4b960e4-666c-4972-8b5e-1bca15322714 [16/Sep/2024:11:44:03 +0100] "GET /api/users/portal/partnerprofile?page=0&size=6&sortField=id&sortOrder=random HTTP/1.1" 200 5131
+2024-09-16 11:44:03,114 INFO  [io.qua.htt.access-log] (executor-thread-2) 127.0.0.1 - e4b960e4-666c-4972-8b5e-1bca15322714 [16/Sep/2024:11:44:03 +0100] "GET /api/users/portal/event?page=0&size=6&sortField=id&sortOrder=random HTTP/1.1" 200 1708
+2024-09-16 11:44:03,114 INFO  [io.qua.htt.access-log] (executor-thread-3) 127.0.0.1 - e4b960e4-666c-4972-8b5e-1bca15322714 [16/Sep/2024:11:44:03 +0100] "GET /api/users/portal/partnerprofile?page=0&size=6&sortField=id&sortOrder=random HTTP/1.1" 200 4899
+2024-09-16 11:44:03,114 INFO  [io.qua.htt.access-log] (executor-thread-5) 127.0.0.1 - e4b960e4-666c-4972-8b5e-1bca15322714 [16/Sep/2024:11:44:03 +0100] "GET /api/users/portal/initiative?page=0&size=6&sortField=id&sortOrder=random HTTP/1.1" 200 4788
+2024-09-16 11:44:03,114 INFO  [io.qua.htt.access-log] (executor-thread-8) 127.0.0.1 - e4b960e4-666c-4972-8b5e-1bca15322714 [16/Sep/2024:11:44:03 +0100] "GET /api/users/portal/initiative?page=0&size=6&sortField=id&sortOrder=random HTTP/1.1" 200 4834
+2024-09-16 11:44:03,119 INFO  [io.qua.htt.access-log] (executor-thread-6) 127.0.0.1 - e4b960e4-666c-4972-8b5e-1bca15322714 [16/Sep/2024:11:44:03 +0100] "GET /api/users/portal/news?page=0&size=6&sortField=id&sortOrder=random HTTP/1.1" 200 4192
+2024-09-16 11:44:03,119 INFO  [io.qua.htt.access-log] (executor-thread-9) 127.0.0.1 - e4b960e4-666c-4972-8b5e-1bca15322714 [16/Sep/2024:11:44:03 +0100] "GET /api/users/portal/news?page=0&size=6&sortField=id&sortOrder=random HTTP/1.1" 200 4178
+2024-09-16 11:44:03,179 INFO  [io.qua.htt.access-log] (executor-thread-1) 127.0.0.1 - e4b960e4-666c-4972-8b5e-1bca15322714 [16/Sep/2024:11:44:03 +0100] "GET /api/users/me HTTP/1.1" 200 291
+2024-09-16 11:44:21,522 INFO  [io.qua.htt.access-log] (executor-thread-1) 127.0.0.1 - e4b960e4-666c-4972-8b5e-1bca15322714 [16/Sep/2024:11:44:21 +0100] "GET /api/users/portal/partnerprofile?page=0&size=6&sortField=companyName&sortOrder=asc HTTP/1.1" 200 5003
+2024-09-16 11:44:22,548 INFO  [io.qua.htt.access-log] (executor-thread-9) 127.0.0.1 - e4b960e4-666c-4972-8b5e-1bca15322714 [16/Sep/2024:11:44:22 +0100] "GET /api/users/portal/partnerprofile HTTP/1.1" 200 93826
+2024-09-16 11:44:22,548 INFO  [io.qua.htt.access-log] (executor-thread-6) 127.0.0.1 - e4b960e4-666c-4972-8b5e-1bca15322714 [16/Sep/2024:11:44:22 +0100] "GET /api/users/portal/partnerprofile HTTP/1.1" 200 93826
+2024-09-16 11:44:22,582 INFO  [io.qua.htt.access-log] (executor-thread-1) 127.0.0.1 - e4b960e4-666c-4972-8b5e-1bca15322714 [16/Sep/2024:11:44:22 +0100] "GET /api/users/partners HTTP/1.1" 200 389724
+2024-09-16 11:44:22,583 INFO  [io.qua.htt.access-log] (executor-thread-8) 127.0.0.1 - e4b960e4-666c-4972-8b5e-1bca15322714 [16/Sep/2024:11:44:22 +0100] "GET /api/users/partners HTTP/1.1" 200 389724
+2024-09-16 11:44:34,936 INFO  [io.d3i.con.GenericService] (executor-thread-1) User "e4b960e4-666c-4972-8b5e-1bca15322714" created class io.d3ip.portal.domain.PortalPartnerProfile with id of "0191fa6f-29ef-7b84-9d0d-b234c1784fc0"
+2024-09-16 11:44:34,943 INFO  [io.qua.htt.access-log] (executor-thread-1) 127.0.0.1 - e4b960e4-666c-4972-8b5e-1bca15322714 [16/Sep/2024:11:44:34 +0100] "POST /api/users/portal/partnerprofile HTTP/1.1" 201 538
+2024-09-16 11:44:34,983 INFO  [io.qua.htt.access-log] (executor-thread-1) 127.0.0.1 - e4b960e4-666c-4972-8b5e-1bca15322714 [16/Sep/2024:11:44:34 +0100] "GET /api/users/portal/partnerprofile HTTP/1.1" 200 94365
+2024-09-16 11:44:37,255 INFO  [io.qua.htt.access-log] (executor-thread-1) 127.0.0.1 - e4b960e4-666c-4972-8b5e-1bca15322714 [16/Sep/2024:11:44:37 +0100] "GET /api/users/portal/initiative?page=0&size=6&sortField=title&sortOrder=asc HTTP/1.1" 200 4929
+2024-09-16 11:44:37,322 INFO  [io.qua.htt.access-log] (executor-thread-1) 127.0.0.1 - e4b960e4-666c-4972-8b5e-1bca15322714 [16/Sep/2024:11:44:37 +0100] "GET /api/users/portal/initiative?page=1&size=6&sortField=title&sortOrder=asc HTTP/1.1" 200 649
+2024-09-16 11:44:39,390 INFO  [io.qua.htt.access-log] (executor-thread-1) 127.0.0.1 - e4b960e4-666c-4972-8b5e-1bca15322714 [16/Sep/2024:11:44:39 +0100] "GET /api/users/portal/partnerprofile?page=0&size=6&sortField=companyName&sortOrder=asc HTTP/1.1" 200 4430
+2024-09-16 11:44:40,391 INFO  [io.qua.htt.access-log] (executor-thread-1) 127.0.0.1 - e4b960e4-666c-4972-8b5e-1bca15322714 [16/Sep/2024:11:44:40 +0100] "GET /api/users/portal/partnerprofile?page=1&size=6&sortField=companyName&sortOrder=asc HTTP/1.1" 200 5312
+2024-09-16 11:44:42,085 INFO  [io.qua.htt.access-log] (executor-thread-1) 127.0.0.1 - e4b960e4-666c-4972-8b5e-1bca15322714 [16/Sep/2024:11:44:42 +0100] "GET /api/users/portal/partnerprofile HTTP/1.1" 200 94365
+2024-09-16 11:44:42,091 INFO  [io.qua.htt.access-log] (executor-thread-6) 127.0.0.1 - e4b960e4-666c-4972-8b5e-1bca15322714 [16/Sep/2024:11:44:42 +0100] "GET /api/users/partners HTTP/1.1" 200 389724
+2024-09-16 11:44:42,092 INFO  [io.qua.htt.access-log] (executor-thread-8) 127.0.0.1 - e4b960e4-666c-4972-8b5e-1bca15322714 [16/Sep/2024:11:44:42 +0100] "GET /api/users/portal/partnerprofile HTTP/1.1" 200 94365
+2024-09-16 11:44:42,095 INFO  [io.qua.htt.access-log] (executor-thread-9) 127.0.0.1 - e4b960e4-666c-4972-8b5e-1bca15322714 [16/Sep/2024:11:44:42 +0100] "GET /api/users/partners HTTP/1.1" 200 389724
+2024-09-16 11:44:48,550 INFO  [io.d3i.con.GenericService] (executor-thread-9) User "e4b960e4-666c-4972-8b5e-1bca15322714" updated class io.d3ip.portal.domain.PortalPartnerProfile with id of "0191fa6f-29ef-7b84-9d0d-b234c1784fc0"
+2024-09-16 11:44:48,551 INFO  [io.qua.htt.access-log] (executor-thread-9) 127.0.0.1 - e4b960e4-666c-4972-8b5e-1bca15322714 [16/Sep/2024:11:44:48 +0100] "PUT /api/users/portal/partnerprofile/0191fa6f-29ef-7b84-9d0d-b234c1784fc0 HTTP/1.1" 200 538
+2024-09-16 11:44:48,612 INFO  [io.qua.htt.access-log] (executor-thread-9) 127.0.0.1 - e4b960e4-666c-4972-8b5e-1bca15322714 [16/Sep/2024:11:44:48 +0100] "GET /api/users/portal/partnerprofile HTTP/1.1" 200 94365
+2024-09-16 11:44:51,926 INFO  [io.d3i.con.GenericService] (executor-thread-9) User "e4b960e4-666c-4972-8b5e-1bca15322714" deleted class io.d3ip.portal.domain.PortalPartnerProfile with id of "0191fa6f-29ef-7b84-9d0d-b234c1784fc0"
+2024-09-16 11:44:51,930 INFO  [io.qua.htt.access-log] (executor-thread-9) 127.0.0.1 - e4b960e4-666c-4972-8b5e-1bca15322714 [16/Sep/2024:11:44:51 +0100] "DELETE /api/users/portal/partnerprofile/0191fa6f-29ef-7b84-9d0d-b234c1784fc0 HTTP/1.1" 204 -
+2024-09-16 11:44:51,964 INFO  [io.qua.htt.access-log] (executor-thread-9) 127.0.0.1 - e4b960e4-666c-4972-8b5e-1bca15322714 [16/Sep/2024:11:44:51 +0100] "GET /api/users/portal/partnerprofile HTTP/1.1" 200 93826
+2024-09-16 11:44:53,560 INFO  [io.qua.htt.access-log] (executor-thread-9) 127.0.0.1 - e4b960e4-666c-4972-8b5e-1bca15322714 [16/Sep/2024:11:44:53 +0100] "GET /api/users/portal/initiative?page=0&size=6&sortField=title&sortOrder=asc HTTP/1.1" 200 4929
+2024-09-16 11:44:53,629 INFO  [io.qua.htt.access-log] (executor-thread-9) 127.0.0.1 - e4b960e4-666c-4972-8b5e-1bca15322714 [16/Sep/2024:11:44:53 +0100] "GET /api/users/portal/initiative?page=1&size=6&sortField=title&sortOrder=asc HTTP/1.1" 200 649
+2024-09-16 11:44:54,951 INFO  [io.qua.htt.access-log] (executor-thread-9) 127.0.0.1 - e4b960e4-666c-4972-8b5e-1bca15322714 [16/Sep/2024:11:44:54 +0100] "GET /api/users/portal/initiative HTTP/1.1" 200 5467
+2024-09-16 11:44:54,957 INFO  [io.qua.htt.access-log] (executor-thread-8) 127.0.0.1 - e4b960e4-666c-4972-8b5e-1bca15322714 [16/Sep/2024:11:44:54 +0100] "GET /api/users/portal/initiative HTTP/1.1" 200 5467
+2024-09-16 11:45:04,480 INFO  [io.d3i.con.GenericService] (executor-thread-8) User "e4b960e4-666c-4972-8b5e-1bca15322714" created class io.d3ip.portal.domain.PortalInitiative with id of "0191fa6f-9d60-7252-bef2-4fc202845f4f"
+2024-09-16 11:45:04,485 INFO  [io.qua.htt.access-log] (executor-thread-8) 127.0.0.1 - e4b960e4-666c-4972-8b5e-1bca15322714 [16/Sep/2024:11:45:04 +0100] "POST /api/users/portal/initiative HTTP/1.1" 201 402
+2024-09-16 11:45:04,496 INFO  [io.qua.htt.access-log] (executor-thread-8) 127.0.0.1 - e4b960e4-666c-4972-8b5e-1bca15322714 [16/Sep/2024:11:45:04 +0100] "GET /api/users/portal/initiative HTTP/1.1" 200 5870
+2024-09-16 11:45:11,768 INFO  [io.d3i.con.GenericService] (executor-thread-8) User "e4b960e4-666c-4972-8b5e-1bca15322714" updated class io.d3ip.portal.domain.PortalInitiative with id of "0191fa6f-9d60-7252-bef2-4fc202845f4f"
+2024-09-16 11:45:11,771 INFO  [io.qua.htt.access-log] (executor-thread-8) 127.0.0.1 - e4b960e4-666c-4972-8b5e-1bca15322714 [16/Sep/2024:11:45:11 +0100] "PUT /api/users/portal/initiative/0191fa6f-9d60-7252-bef2-4fc202845f4f HTTP/1.1" 200 402
+2024-09-16 11:45:11,783 INFO  [io.qua.htt.access-log] (executor-thread-8) 127.0.0.1 - e4b960e4-666c-4972-8b5e-1bca15322714 [16/Sep/2024:11:45:11 +0100] "GET /api/users/portal/initiative HTTP/1.1" 200 5870
+2024-09-16 11:45:14,582 INFO  [io.d3i.con.GenericService] (executor-thread-8) User "e4b960e4-666c-4972-8b5e-1bca15322714" deleted class io.d3ip.portal.domain.PortalInitiative with id of "0191fa6f-9d60-7252-bef2-4fc202845f4f"
+2024-09-16 11:45:14,586 INFO  [io.qua.htt.access-log] (executor-thread-8) 127.0.0.1 - e4b960e4-666c-4972-8b5e-1bca15322714 [16/Sep/2024:11:45:14 +0100] "DELETE /api/users/portal/initiative/0191fa6f-9d60-7252-bef2-4fc202845f4f HTTP/1.1" 204 -
+2024-09-16 11:45:14,601 INFO  [io.qua.htt.access-log] (executor-thread-8) 127.0.0.1 - e4b960e4-666c-4972-8b5e-1bca15322714 [16/Sep/2024:11:45:14 +0100] "GET /api/users/portal/initiative HTTP/1.1" 200 5467
+2024-09-16 11:45:16,343 INFO  [io.qua.htt.access-log] (executor-thread-8) 127.0.0.1 - e4b960e4-666c-4972-8b5e-1bca15322714 [16/Sep/2024:11:45:16 +0100] "GET /api/users/portal/event?page=0&size=6&sortField=title&sortOrder=asc HTTP/1.1" 200 1708
+2024-09-16 11:45:16,400 INFO  [io.qua.htt.access-log] (executor-thread-8) 127.0.0.1 - e4b960e4-666c-4972-8b5e-1bca15322714 [16/Sep/2024:11:45:16 +0100] "GET /api/users/portal/event?page=1&size=6&sortField=title&sortOrder=asc HTTP/1.1" 200 57
+2024-09-16 11:45:17,556 INFO  [io.qua.htt.access-log] (executor-thread-8) 127.0.0.1 - e4b960e4-666c-4972-8b5e-1bca15322714 [16/Sep/2024:11:45:17 +0100] "GET /api/users/portal/event HTTP/1.1" 200 1653
+2024-09-16 11:45:17,561 INFO  [io.qua.htt.access-log] (executor-thread-9) 127.0.0.1 - e4b960e4-666c-4972-8b5e-1bca15322714 [16/Sep/2024:11:45:17 +0100] "GET /api/users/portal/event HTTP/1.1" 200 1653
+2024-09-16 11:45:22,911 INFO  [io.d3i.con.GenericService] (executor-thread-9) User "e4b960e4-666c-4972-8b5e-1bca15322714" created class io.d3ip.portal.domain.PortalEvent with id of "0191fa6f-e55f-74fd-8e97-1e184e616ffa"
+2024-09-16 11:45:22,915 INFO  [io.qua.htt.access-log] (executor-thread-9) 127.0.0.1 - e4b960e4-666c-4972-8b5e-1bca15322714 [16/Sep/2024:11:45:22 +0100] "POST /api/users/portal/event HTTP/1.1" 201 557
+2024-09-16 11:45:22,931 INFO  [io.qua.htt.access-log] (executor-thread-9) 127.0.0.1 - e4b960e4-666c-4972-8b5e-1bca15322714 [16/Sep/2024:11:45:22 +0100] "GET /api/users/portal/event HTTP/1.1" 200 2211
+2024-09-16 11:45:28,416 INFO  [io.d3i.con.GenericService] (executor-thread-9) User "e4b960e4-666c-4972-8b5e-1bca15322714" updated class io.d3ip.portal.domain.PortalEvent with id of "0191fa6f-e55f-74fd-8e97-1e184e616ffa"
+2024-09-16 11:45:28,421 INFO  [io.qua.htt.access-log] (executor-thread-9) 127.0.0.1 - e4b960e4-666c-4972-8b5e-1bca15322714 [16/Sep/2024:11:45:28 +0100] "PUT /api/users/portal/event/0191fa6f-e55f-74fd-8e97-1e184e616ffa HTTP/1.1" 200 557
+2024-09-16 11:45:28,444 INFO  [io.qua.htt.access-log] (executor-thread-9) 127.0.0.1 - e4b960e4-666c-4972-8b5e-1bca15322714 [16/Sep/2024:11:45:28 +0100] "GET /api/users/portal/event HTTP/1.1" 200 2211
+2024-09-16 11:45:30,414 INFO  [io.d3i.con.GenericService] (executor-thread-9) User "e4b960e4-666c-4972-8b5e-1bca15322714" deleted class io.d3ip.portal.domain.PortalEvent with id of "0191fa6f-e55f-74fd-8e97-1e184e616ffa"
+2024-09-16 11:45:30,419 INFO  [io.qua.htt.access-log] (executor-thread-9) 127.0.0.1 - e4b960e4-666c-4972-8b5e-1bca15322714 [16/Sep/2024:11:45:30 +0100] "DELETE /api/users/portal/event/0191fa6f-e55f-74fd-8e97-1e184e616ffa HTTP/1.1" 204 -
+2024-09-16 11:45:30,442 INFO  [io.qua.htt.access-log] (executor-thread-9) 127.0.0.1 - e4b960e4-666c-4972-8b5e-1bca15322714 [16/Sep/2024:11:45:30 +0100] "GET /api/users/portal/event HTTP/1.1" 200 1653
+2024-09-16 11:45:32,391 INFO  [io.qua.htt.access-log] (executor-thread-9) 127.0.0.1 - e4b960e4-666c-4972-8b5e-1bca15322714 [16/Sep/2024:11:45:32 +0100] "GET /api/users/portal/news?page=0&size=6&sortField=date&sortOrder=desc HTTP/1.1" 200 4192
+2024-09-16 11:45:32,462 INFO  [io.qua.htt.access-log] (executor-thread-9) 127.0.0.1 - e4b960e4-666c-4972-8b5e-1bca15322714 [16/Sep/2024:11:45:32 +0100] "GET /api/users/portal/news?page=1&size=6&sortField=date&sortOrder=desc HTTP/1.1" 200 764
+2024-09-16 11:45:33,283 INFO  [io.qua.htt.access-log] (executor-thread-9) 127.0.0.1 - e4b960e4-666c-4972-8b5e-1bca15322714 [16/Sep/2024:11:45:33 +0100] "GET /api/users/portal/news HTTP/1.1" 200 4845
+2024-09-16 11:45:33,283 INFO  [io.qua.htt.access-log] (executor-thread-8) 127.0.0.1 - e4b960e4-666c-4972-8b5e-1bca15322714 [16/Sep/2024:11:45:33 +0100] "GET /api/users/portal/news HTTP/1.1" 200 4845
+2024-09-16 11:45:38,747 INFO  [io.d3i.con.GenericService] (executor-thread-8) User "e4b960e4-666c-4972-8b5e-1bca15322714" created class io.d3ip.portal.domain.PortalNews with id of "0191fa70-233b-7dc1-987a-01aeabab4f78"
+2024-09-16 11:45:38,750 INFO  [io.qua.htt.access-log] (executor-thread-8) 127.0.0.1 - e4b960e4-666c-4972-8b5e-1bca15322714 [16/Sep/2024:11:45:38 +0100] "POST /api/users/portal/news HTTP/1.1" 201 427
+2024-09-16 11:45:38,790 INFO  [io.qua.htt.access-log] (executor-thread-8) 127.0.0.1 - e4b960e4-666c-4972-8b5e-1bca15322714 [16/Sep/2024:11:45:38 +0100] "GET /api/users/portal/news HTTP/1.1" 200 5273
+2024-09-16 11:45:44,996 INFO  [io.d3i.con.GenericService] (executor-thread-8) User "e4b960e4-666c-4972-8b5e-1bca15322714" updated class io.d3ip.portal.domain.PortalNews with id of "0191fa70-233b-7dc1-987a-01aeabab4f78"
+2024-09-16 11:45:45,000 INFO  [io.qua.htt.access-log] (executor-thread-8) 127.0.0.1 - e4b960e4-666c-4972-8b5e-1bca15322714 [16/Sep/2024:11:45:45 +0100] "PUT /api/users/portal/news/0191fa70-233b-7dc1-987a-01aeabab4f78 HTTP/1.1" 200 427
+2024-09-16 11:45:45,012 INFO  [io.qua.htt.access-log] (executor-thread-8) 127.0.0.1 - e4b960e4-666c-4972-8b5e-1bca15322714 [16/Sep/2024:11:45:45 +0100] "GET /api/users/portal/news HTTP/1.1" 200 5273
+2024-09-16 11:45:48,661 INFO  [io.d3i.con.GenericService] (executor-thread-8) User "e4b960e4-666c-4972-8b5e-1bca15322714" deleted class io.d3ip.portal.domain.PortalNews with id of "0191fa70-233b-7dc1-987a-01aeabab4f78"
+2024-09-16 11:45:48,664 INFO  [io.qua.htt.access-log] (executor-thread-8) 127.0.0.1 - e4b960e4-666c-4972-8b5e-1bca15322714 [16/Sep/2024:11:45:48 +0100] "DELETE /api/users/portal/news/0191fa70-233b-7dc1-987a-01aeabab4f78 HTTP/1.1" 204 -
+2024-09-16 11:45:48,679 INFO  [io.qua.htt.access-log] (executor-thread-8) 127.0.0.1 - e4b960e4-666c-4972-8b5e-1bca15322714 [16/Sep/2024:11:45:48 +0100] "GET /api/users/portal/news HTTP/1.1" 200 4845
+2024-09-16 11:45:58,646 ERROR [io.d3i.con.NoResultExceptionMapper] (executor-thread-8) jakarta.persistence.NoResultException: No result found for query [FROM `io.d3ip.portal.domain.PortalPage` WHERE slug = ?1]
+2024-09-16 11:45:58,655 INFO  [io.qua.htt.access-log] (executor-thread-8) 127.0.0.1 - e4b960e4-666c-4972-8b5e-1bca15322714 [16/Sep/2024:11:45:58 +0100] "GET /api/users/portal/page/slug/faq HTTP/1.1" 404 64
+2024-09-16 11:45:58,655 ERROR [io.d3i.con.NoResultExceptionMapper] (executor-thread-9) jakarta.persistence.NoResultException: No result found for query [FROM `io.d3ip.portal.domain.PortalPage` WHERE slug = ?1]
+2024-09-16 11:45:58,655 INFO  [io.qua.htt.access-log] (executor-thread-9) 127.0.0.1 - e4b960e4-666c-4972-8b5e-1bca15322714 [16/Sep/2024:11:45:58 +0100] "GET /api/users/portal/page/slug/faq HTTP/1.1" 404 64
+2024-09-16 11:46:02,681 INFO  [io.d3i.con.GenericService] (executor-thread-9) User "e4b960e4-666c-4972-8b5e-1bca15322714" created class io.d3ip.portal.domain.PortalPage with id of "0191fa70-80b9-724b-aeaa-6ac671d68840"
+2024-09-16 11:46:02,685 INFO  [io.qua.htt.access-log] (executor-thread-9) 127.0.0.1 - e4b960e4-666c-4972-8b5e-1bca15322714 [16/Sep/2024:11:46:02 +0100] "POST /api/users/portal/page HTTP/1.1" 201 475
+2024-09-16 11:46:07,393 INFO  [io.qua.htt.access-log] (executor-thread-9) 127.0.0.1 - e4b960e4-666c-4972-8b5e-1bca15322714 [16/Sep/2024:11:46:07 +0100] "GET /api/users/partners HTTP/1.1" 200 389724
+2024-09-16 11:46:07,393 INFO  [io.qua.htt.access-log] (executor-thread-8) 127.0.0.1 - e4b960e4-666c-4972-8b5e-1bca15322714 [16/Sep/2024:11:46:07 +0100] "GET /api/users/partners HTTP/1.1" 200 389724
+2024-09-16 11:46:16,423 INFO  [io.d3i.con.GenericService] (executor-thread-8) User "e4b960e4-666c-4972-8b5e-1bca15322714" created class io.d3ip.cnc.domain.Partner with id of "0191fa70-b667-7d1a-ba3c-526ddaa86a48"
+2024-09-16 11:46:16,428 INFO  [io.qua.htt.access-log] (executor-thread-8) 127.0.0.1 - e4b960e4-666c-4972-8b5e-1bca15322714 [16/Sep/2024:11:46:16 +0100] "POST /api/users/partners HTTP/1.1" 201 532
+2024-09-16 11:46:16,449 INFO  [io.qua.htt.access-log] (executor-thread-8) 127.0.0.1 - e4b960e4-666c-4972-8b5e-1bca15322714 [16/Sep/2024:11:46:16 +0100] "GET /api/users/partners HTTP/1.1" 200 390257
+2024-09-16 11:46:32,119 INFO  [io.d3i.con.GenericService] (executor-thread-8) User "e4b960e4-666c-4972-8b5e-1bca15322714" updated class io.d3ip.cnc.domain.Partner with id of "0191fa70-b667-7d1a-ba3c-526ddaa86a48"
+2024-09-16 11:46:32,122 INFO  [io.qua.htt.access-log] (executor-thread-8) 127.0.0.1 - e4b960e4-666c-4972-8b5e-1bca15322714 [16/Sep/2024:11:46:32 +0100] "PUT /api/users/partners/0191fa70-b667-7d1a-ba3c-526ddaa86a48 HTTP/1.1" 200 533
+2024-09-16 11:46:32,149 INFO  [io.qua.htt.access-log] (executor-thread-8) 127.0.0.1 - e4b960e4-666c-4972-8b5e-1bca15322714 [16/Sep/2024:11:46:32 +0100] "GET /api/users/partners HTTP/1.1" 200 390258
+2024-09-16 11:46:38,324 INFO  [io.d3i.con.GenericService] (executor-thread-8) User "e4b960e4-666c-4972-8b5e-1bca15322714" deleted class io.d3ip.cnc.domain.Partner with id of "0191fa70-b667-7d1a-ba3c-526ddaa86a48"
+2024-09-16 11:46:38,330 INFO  [io.qua.htt.access-log] (executor-thread-8) 127.0.0.1 - e4b960e4-666c-4972-8b5e-1bca15322714 [16/Sep/2024:11:46:38 +0100] "DELETE /api/users/partners/0191fa70-b667-7d1a-ba3c-526ddaa86a48 HTTP/1.1" 204 -
+2024-09-16 11:46:38,363 INFO  [io.qua.htt.access-log] (executor-thread-8) 127.0.0.1 - e4b960e4-666c-4972-8b5e-1bca15322714 [16/Sep/2024:11:46:38 +0100] "GET /api/users/partners HTTP/1.1" 200 389724
+2024-09-16 11:46:42,356 INFO  [io.qua.htt.access-log] (executor-thread-8) 127.0.0.1 - e4b960e4-666c-4972-8b5e-1bca15322714 [16/Sep/2024:11:46:42 +0100] "GET /api/users/partners HTTP/1.1" 200 389724
+2024-09-16 11:46:42,368 INFO  [io.qua.htt.access-log] (executor-thread-12) 127.0.0.1 - e4b960e4-666c-4972-8b5e-1bca15322714 [16/Sep/2024:11:46:42 +0100] "GET /api/users/partners HTTP/1.1" 200 389724
+2024-09-16 11:46:42,394 INFO  [io.qua.htt.access-log] (executor-thread-10) 127.0.0.1 - e4b960e4-666c-4972-8b5e-1bca15322714 [16/Sep/2024:11:46:42 +0100] "GET /api/users/contacts HTTP/1.1" 200 204247
+2024-09-16 11:46:42,394 INFO  [io.qua.htt.access-log] (executor-thread-11) 127.0.0.1 - e4b960e4-666c-4972-8b5e-1bca15322714 [16/Sep/2024:11:46:42 +0100] "GET /api/users/contacts HTTP/1.1" 200 204247
+2024-09-16 11:47:06,025 INFO  [io.d3i.cnc.dom.PartnerContactRequestDTO] (executor-thread-11) Weirdnull
+2024-09-16 11:47:06,028 INFO  [io.d3i.con.GenericService] (executor-thread-11) User "e4b960e4-666c-4972-8b5e-1bca15322714" created class io.d3ip.cnc.domain.PartnerContact with id of "0191fa71-7829-7578-9b38-8a9a905ea7ba"
+2024-09-16 11:47:06,032 INFO  [io.qua.htt.access-log] (executor-thread-11) 127.0.0.1 - e4b960e4-666c-4972-8b5e-1bca15322714 [16/Sep/2024:11:47:06 +0100] "POST /api/users/contacts HTTP/1.1" 201 511
+2024-09-16 11:47:06,074 INFO  [io.qua.htt.access-log] (executor-thread-11) 127.0.0.1 - e4b960e4-666c-4972-8b5e-1bca15322714 [16/Sep/2024:11:47:06 +0100] "GET /api/users/contacts HTTP/1.1" 200 204759
+2024-09-16 11:47:11,827 INFO  [io.d3i.con.GenericService] (executor-thread-11) User "e4b960e4-666c-4972-8b5e-1bca15322714" updated class io.d3ip.cnc.domain.PartnerContact with id of "0191fa71-7829-7578-9b38-8a9a905ea7ba"
+2024-09-16 11:47:11,830 INFO  [io.qua.htt.access-log] (executor-thread-11) 127.0.0.1 - e4b960e4-666c-4972-8b5e-1bca15322714 [16/Sep/2024:11:47:11 +0100] "PUT /api/users/contacts/0191fa71-7829-7578-9b38-8a9a905ea7ba HTTP/1.1" 200 511
+2024-09-16 11:47:11,879 INFO  [io.qua.htt.access-log] (executor-thread-11) 127.0.0.1 - e4b960e4-666c-4972-8b5e-1bca15322714 [16/Sep/2024:11:47:11 +0100] "GET /api/users/contacts HTTP/1.1" 200 204759
+2024-09-16 11:47:14,130 INFO  [io.d3i.con.GenericService] (executor-thread-11) User "e4b960e4-666c-4972-8b5e-1bca15322714" deleted class io.d3ip.cnc.domain.PartnerContact with id of "0191fa71-7829-7578-9b38-8a9a905ea7ba"
+2024-09-16 11:47:14,133 INFO  [io.qua.htt.access-log] (executor-thread-11) 127.0.0.1 - e4b960e4-666c-4972-8b5e-1bca15322714 [16/Sep/2024:11:47:14 +0100] "DELETE /api/users/contacts/0191fa71-7829-7578-9b38-8a9a905ea7ba HTTP/1.1" 204 -
+2024-09-16 11:47:14,174 INFO  [io.qua.htt.access-log] (executor-thread-11) 127.0.0.1 - e4b960e4-666c-4972-8b5e-1bca15322714 [16/Sep/2024:11:47:14 +0100] "GET /api/users/contacts HTTP/1.1" 200 204247
+2024-09-16 11:48:08,521 INFO  [io.qua.htt.access-log] (executor-thread-13) 127.0.0.1 - e4b960e4-666c-4972-8b5e-1bca15322714 [16/Sep/2024:11:48:08 +0100] "GET /api/users/partners HTTP/1.1" 200 389724
+2024-09-16 11:48:08,521 INFO  [io.qua.htt.access-log] (executor-thread-11) 127.0.0.1 - e4b960e4-666c-4972-8b5e-1bca15322714 [16/Sep/2024:11:48:08 +0100] "GET /api/users/partners HTTP/1.1" 200 389724
+2024-09-16 11:48:20,098 INFO  [io.d3i.con.GenericService] (executor-thread-13) User "e4b960e4-666c-4972-8b5e-1bca15322714" created class io.d3ip.cnc.domain.Partner with id of "0191fa72-9981-7924-b19e-33c8d7602b8c"
+2024-09-16 11:48:20,109 WARN  [org.hib.eng.jdb.spi.SqlExceptionHelper] (executor-thread-13) SQL Error: 0, SQLState: 23505
+2024-09-16 11:48:20,109 ERROR [org.hib.eng.jdb.spi.SqlExceptionHelper] (executor-thread-13) ERROR: duplicate key value violates unique constraint "partner_name_key"
+  Detail: Key (name)=(1degreewest) already exists.
+2024-09-16 11:48:20,116 WARN  [com.arj.ats.arjuna] (executor-thread-13) ARJUNA012125: TwoPhaseCoordinator.beforeCompletion - failed for SynchronizationImple< 0:ffffc0a832cf:df56:66e80bf2:79, org.hibernate.resource.transaction.backend.jta.internal.synchronization.RegisteredSynchronization@5294f856 >: org.hibernate.exception.ConstraintViolationException: could not execute statement [ERROR: duplicate key value violates unique constraint "partner_name_key"
+  Detail: Key (name)=(1degreewest) already exists.] [insert into partner (business_type,company_identifier,country,created,creator_id,inducted_date,induction_target_date,modified,modifier_id,name,nda_signed_date,onboarding_stage,risk_assessment,teaming_agreement_date,website,id) values (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)]
+	at org.hibernate.exception.internal.SQLStateConversionDelegate.convert(SQLStateConversionDelegate.java:97)
+	at org.hibernate.exception.internal.StandardSQLExceptionConverter.convert(StandardSQLExceptionConverter.java:58)
+	at org.hibernate.engine.jdbc.spi.SqlExceptionHelper.convert(SqlExceptionHelper.java:108)
+	at org.hibernate.engine.jdbc.internal.ResultSetReturnImpl.executeUpdate(ResultSetReturnImpl.java:197)
+	at org.hibernate.engine.jdbc.mutation.internal.AbstractMutationExecutor.performNonBatchedMutation(AbstractMutationExecutor.java:134)
+	at org.hibernate.engine.jdbc.mutation.internal.MutationExecutorSingleNonBatched.performNonBatchedOperations(MutationExecutorSingleNonBatched.java:55)
+	at org.hibernate.engine.jdbc.mutation.internal.AbstractMutationExecutor.execute(AbstractMutationExecutor.java:55)
+	at org.hibernate.persister.entity.mutation.InsertCoordinatorStandard.doStaticInserts(InsertCoordinatorStandard.java:194)
+	at org.hibernate.persister.entity.mutation.InsertCoordinatorStandard.coordinateInsert(InsertCoordinatorStandard.java:132)
+	at org.hibernate.persister.entity.mutation.InsertCoordinatorStandard.insert(InsertCoordinatorStandard.java:104)
+	at org.hibernate.action.internal.EntityInsertAction.execute(EntityInsertAction.java:110)
+	at org.hibernate.engine.spi.ActionQueue.executeActions(ActionQueue.java:632)
+	at org.hibernate.engine.spi.ActionQueue.executeActions(ActionQueue.java:499)
+	at org.hibernate.event.internal.AbstractFlushingEventListener.performExecutions(AbstractFlushingEventListener.java:371)
+	at org.hibernate.event.internal.DefaultFlushEventListener.onFlush(DefaultFlushEventListener.java:41)
+	at org.hibernate.event.service.internal.EventListenerGroupImpl.fireEventOnEachListener(EventListenerGroupImpl.java:127)
+	at org.hibernate.internal.SessionImpl.doFlush(SessionImpl.java:1425)
+	at org.hibernate.internal.SessionImpl.managedFlush(SessionImpl.java:487)
+	at org.hibernate.internal.SessionImpl.flushBeforeTransactionCompletion(SessionImpl.java:2324)
+	at org.hibernate.internal.SessionImpl.beforeTransactionCompletion(SessionImpl.java:1981)
+	at org.hibernate.engine.jdbc.internal.JdbcCoordinatorImpl.beforeTransactionCompletion(JdbcCoordinatorImpl.java:439)
+	at org.hibernate.resource.transaction.backend.jta.internal.JtaTransactionCoordinatorImpl.beforeCompletion(JtaTransactionCoordinatorImpl.java:336)
+	at org.hibernate.resource.transaction.backend.jta.internal.synchronization.SynchronizationCallbackCoordinatorNonTrackingImpl.beforeCompletion(SynchronizationCallbackCoordinatorNonTrackingImpl.java:47)
+	at org.hibernate.resource.transaction.backend.jta.internal.synchronization.RegisteredSynchronization.beforeCompletion(RegisteredSynchronization.java:37)
+	at com.arjuna.ats.internal.jta.resources.arjunacore.SynchronizationImple.beforeCompletion(SynchronizationImple.java:52)
+	at com.arjuna.ats.arjuna.coordinator.TwoPhaseCoordinator.beforeCompletion(TwoPhaseCoordinator.java:348)
+	at com.arjuna.ats.arjuna.coordinator.TwoPhaseCoordinator.end(TwoPhaseCoordinator.java:66)
+	at com.arjuna.ats.arjuna.AtomicAction.commit(AtomicAction.java:135)
+	at com.arjuna.ats.internal.jta.transaction.arjunacore.TransactionImple.commitAndDisassociate(TransactionImple.java:1271)
+	at com.arjuna.ats.internal.jta.transaction.arjunacore.BaseTransaction.commit(BaseTransaction.java:104)
+	at io.quarkus.narayana.jta.runtime.NotifyingTransactionManager.commit(NotifyingTransactionManager.java:70)
+	at io.quarkus.narayana.jta.runtime.interceptor.TransactionalInterceptorBase.endTransaction(TransactionalInterceptorBase.java:406)
+	at io.quarkus.narayana.jta.runtime.interceptor.TransactionalInterceptorBase.invokeInOurTx(TransactionalInterceptorBase.java:171)
+	at io.quarkus.narayana.jta.runtime.interceptor.TransactionalInterceptorBase.invokeInOurTx(TransactionalInterceptorBase.java:107)
+	at io.quarkus.narayana.jta.runtime.interceptor.TransactionalInterceptorRequired.doIntercept(TransactionalInterceptorRequired.java:38)
+	at io.quarkus.narayana.jta.runtime.interceptor.TransactionalInterceptorBase.intercept(TransactionalInterceptorBase.java:61)
+	at io.quarkus.narayana.jta.runtime.interceptor.TransactionalInterceptorRequired.intercept(TransactionalInterceptorRequired.java:32)
+	at io.quarkus.narayana.jta.runtime.interceptor.TransactionalInterceptorRequired_Bean.intercept(Unknown Source)
+	at io.quarkus.arc.impl.InterceptorInvocation.invoke(InterceptorInvocation.java:42)
+	at io.quarkus.arc.impl.AroundInvokeInvocationContext.perform(AroundInvokeInvocationContext.java:30)
+	at io.quarkus.arc.impl.InvocationContexts.performAroundInvoke(InvocationContexts.java:27)
+	at io.d3ip.cnc.PartnerResource_Subclass.create(Unknown Source)
+	at io.d3ip.config.GenericRestController$quarkusrestinvoker$create_1284e9dac3cbedda6b7eae50fa52e1d9d15b2ba0.invoke(Unknown Source)
+	at org.jboss.resteasy.reactive.server.handlers.InvocationHandler.handle(InvocationHandler.java:29)
+	at io.quarkus.resteasy.reactive.server.runtime.QuarkusResteasyReactiveRequestContext.invokeHandler(QuarkusResteasyReactiveRequestContext.java:141)
+	at org.jboss.resteasy.reactive.common.core.AbstractResteasyReactiveContext.run(AbstractResteasyReactiveContext.java:147)
+	at io.quarkus.vertx.core.runtime.VertxCoreRecorder$14.runWith(VertxCoreRecorder.java:599)
+	at org.jboss.threads.EnhancedQueueExecutor$Task.doRunWith(EnhancedQueueExecutor.java:2516)
+	at org.jboss.threads.EnhancedQueueExecutor$Task.run(EnhancedQueueExecutor.java:2495)
+	at org.jboss.threads.EnhancedQueueExecutor$ThreadBody.run(EnhancedQueueExecutor.java:1521)
+	at org.jboss.threads.DelegatingRunnable.run(DelegatingRunnable.java:11)
+	at org.jboss.threads.ThreadLocalResettingRunnable.run(ThreadLocalResettingRunnable.java:11)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+Caused by: org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint "partner_name_key"
+  Detail: Key (name)=(1degreewest) already exists.
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2725)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:2412)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:371)
+	at org.postgresql.jdbc.PgStatement.executeInternal(PgStatement.java:502)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:419)
+	at org.postgresql.jdbc.PgPreparedStatement.executeWithFlags(PgPreparedStatement.java:194)
+	at org.postgresql.jdbc.PgPreparedStatement.executeUpdate(PgPreparedStatement.java:155)
+	at io.agroal.pool.wrapper.PreparedStatementWrapper.executeUpdate(PreparedStatementWrapper.java:90)
+	at org.hibernate.engine.jdbc.internal.ResultSetReturnImpl.executeUpdate(ResultSetReturnImpl.java:194)
+	... 50 more
+
+2024-09-16 11:48:20,121 ERROR [io.d3i.con.HibernateConstraintViolationExceptionMapper] (executor-thread-13) org.hibernate.exception.ConstraintViolationException: could not execute statement [ERROR: duplicate key value violates unique constraint "partner_name_key"
+  Detail: Key (name)=(1degreewest) already exists.] [insert into partner (business_type,company_identifier,country,created,creator_id,inducted_date,induction_target_date,modified,modifier_id,name,nda_signed_date,onboarding_stage,risk_assessment,teaming_agreement_date,website,id) values (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)]
+2024-09-16 11:48:20,122 INFO  [io.qua.htt.access-log] (executor-thread-13) 127.0.0.1 - e4b960e4-666c-4972-8b5e-1bca15322714 [16/Sep/2024:11:48:20 +0100] "POST /api/users/partners HTTP/1.1" 409 77
+Caused by: org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint "partner_name_key"
+

@@ -1,0 +1,47 @@
+version: '3.8'
+
+services:
+  opensearch:
+    image: opensearchproject/opensearch:2.4.0
+    container_name: opensearch
+    environment:
+      - cluster.name=opensearch-cluster
+      - node.name=opensearch-node
+      - network.host=0.0.0.0
+      - discovery.type=single-node
+      - plugins.security.disabled=true  # Disable security for local development
+    ports:
+      - "9200:9200"
+    volumes:
+      - opensearch_data:/usr/share/opensearch/data
+
+  opensearch-dashboards:
+    image: opensearchproject/opensearch-dashboards:2.4.0
+    container_name: opensearch-dashboards
+    environment:
+      - OPENSEARCH_HOSTS=http://opensearch:9200
+      - plugins.security.disabled=true
+    ports:
+      - "5601:5601"
+
+  logstash:
+    image: docker.elastic.co/logstash/logstash:7.10.0
+    container_name: logstash
+    platform: linux/amd64  # Specify the platform here
+    volumes:
+      - ./logstash.conf:/usr/share/logstash/pipeline/logstash.conf
+    ports:
+      - "5044:5044"
+
+  filebeat:
+    image: docker.elastic.co/beats/filebeat:7.10.0
+    container_name: filebeat
+    platform: linux/amd64  # Specify the platform here
+    volumes:
+      - /Users/satyajitsingh/projects/weblogs/data/weblogs.log:/usr/share/filebeat/data/weblogs.log
+      - /Users/satyajitsingh/projects/weblogs/filebeat.yml:/usr/share/filebeat/filebeat.yml
+    environment:
+      - ELASTICSEARCH_HOST=http://opensearch:9200
+
+volumes:
+  opensearch_data:
